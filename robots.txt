@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lsventura.github.io/garimpodeimoveis/sitemap.xml
